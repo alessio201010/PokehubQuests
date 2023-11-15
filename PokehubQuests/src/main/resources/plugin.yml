@@ -1,0 +1,9 @@
+name: PokehubQuests
+version: '${version}'
+main: me.alessio2010.pokehubquests.PokehubQuests
+api-version: '1.20'
+commands:
+  quests:
+    description: main command
+    usage: /<command>
+    permission: pokehubquests.base
